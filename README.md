@@ -1,35 +1,35 @@
 # Wasif Ali
 
-Backend Engineer focused on designing scalable APIs, cloud-native applications, and AI-powered systems.
+Backend Engineer focused on building scalable APIs, cloud-native applications, and AI-powered systems.
 
-## Core Technologies
+## Technologies
 
-* Python
-* Git & GitHub
-* REST APIs
-* HTTP
-* Networking Fundamentals
+- Python
+- Git & GitHub
+- REST APIs
+- HTTP
+- Networking Fundamentals
 
-## Areas of Focus
+## Current Focus
 
-* Backend Development
-* API Design & Integration
-* Problem Solving
-* Software Engineering Fundamentals
+- Backend Development
+- API Design
+- Problem Solving
+- Software Engineering Fundamentals
 
-## Projects
+## Upcoming Projects
 
-* Weather App
-* News App
-* Crypto Tracker
+- Weather App
+- News App
+- Crypto Tracker
 
-## Engineering Interests
+## Long-Term Direction
 
-* Cloud-Native Architecture
-* AI Systems Engineering
-* Distributed Systems
-* Scalable Application Design
+- Cloud-Native Backend Engineering
+- AI Systems Engineering
+- Distributed Systems
+- Scalable Application Architecture
 
 ---
 
-Building reliable software with a focus on scalability, performance, and continuous improvement.
+Building software with a focus on performance, reliability, and continuous improvement.
