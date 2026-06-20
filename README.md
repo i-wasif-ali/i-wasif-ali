@@ -1,16 +1,33 @@
-## Hi there 👋
+**Wasif Ali**
 
-<!--
-**i-wasif-ali/i-wasif-ali** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Backend Engineer focused on building scalable APIs, cloud-native applications, and AI-powered systems.
 
-Here are some ideas to get you started:
+**Technologies**
+Python
+Git & GitHub
+REST APIs
+HTTP
+Networking Fundamentals
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Current Focus**
+
+Backend Development
+API Design
+Problem Solving
+Software Engineering Fundamentals
+
+**Upcoming Projects**
+
+Weather App
+News App
+Crypto Tracker
+
+**Long-Term Direction**
+
+Cloud-Native Backend Engineering
+AI Systems Engineering
+Distributed Systems
+Scalable Application Architecture
+
+
+Building software with a focus on performance, reliability, and continuous improvement.
